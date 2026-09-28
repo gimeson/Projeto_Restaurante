@@ -1,0 +1,10 @@
+ProjetoRestaurante/
+├── Models/
+│   ├── Item.cs
+│   ├── Pedido.cs
+│   └── Restaurante.cs
+├── Controllers/
+│   └── RestauranteController.cs
+├── Views/
+│   └── RestauranteView.cs
+└── Program.cs
